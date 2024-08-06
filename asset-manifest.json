@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ecommerce-store/static/css/main.6a19abd5.css",
-    "main.js": "/react-ecommerce-store/static/js/main.2768be1d.js",
+    "main.js": "/react-ecommerce-store/static/js/main.0943b5d2.js",
     "static/js/787.b4fef3a4.chunk.js": "/react-ecommerce-store/static/js/787.b4fef3a4.chunk.js",
     "static/media/latest_gta.mp4": "/react-ecommerce-store/static/media/latest_gta.64cd5186fabccb77c73b.mp4",
     "static/media/GTWalsheimPro-Light.ttf": "/react-ecommerce-store/static/media/GTWalsheimPro-Light.0a89fe38505661051946.ttf",
@@ -49,11 +49,11 @@
     "static/media/down.svg": "/react-ecommerce-store/static/media/down.45a1a7112bf6255f362b38eaa86ac6de.svg",
     "static/media/left.svg": "/react-ecommerce-store/static/media/left.bc24e9e3061ccb03a6e13a55760da701.svg",
     "main.6a19abd5.css.map": "/react-ecommerce-store/static/css/main.6a19abd5.css.map",
-    "main.2768be1d.js.map": "/react-ecommerce-store/static/js/main.2768be1d.js.map",
+    "main.0943b5d2.js.map": "/react-ecommerce-store/static/js/main.0943b5d2.js.map",
     "787.b4fef3a4.chunk.js.map": "/react-ecommerce-store/static/js/787.b4fef3a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a19abd5.css",
-    "static/js/main.2768be1d.js"
+    "static/js/main.0943b5d2.js"
   ]
 }

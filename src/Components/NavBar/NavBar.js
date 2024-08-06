@@ -8,7 +8,6 @@ import { motion } from "framer-motion";
 import { useLocation } from "react-router-dom";
 import { useAuth0 } from "@auth0/auth0-react";
 
-
 const NavBar = (props) => {
   const { loginWithRedirect, logout, isAuthenticated } = useAuth0();
   const {
@@ -137,7 +136,7 @@ const NavBar = (props) => {
             <h3 onClick={handleOpenCart}>Cart: {cartAmount}</h3>
           </div>
 
-          <div>
+          {/* <div>
             {isAuthenticated ? (
               <button
                 className={styles.button}
@@ -153,7 +152,7 @@ const NavBar = (props) => {
                 Log In
               </button>
             )}
-          </div>
+          </div> */}
         </div>
       </motion.div>
     </>

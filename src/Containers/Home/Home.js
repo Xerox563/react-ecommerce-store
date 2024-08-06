@@ -76,7 +76,7 @@ const Home = (props) => {
     setOverlap(true);
     setTimeout(() => {
       setBrowsing(true);
-      navigate(/react-ecommerce-store/games/${randomSurname});
+      navigate(`/react-ecommerce-store/games/${randomSurname}`);
     }, 1500);
   };
 
@@ -171,17 +171,17 @@ const Home = (props) => {
                   target="_blank"
                 >
                   <button
-                    className={${styles.cta} ${styles.lastChild}}
+                    className={`${styles.cta} ${styles.lastChild}`}
                     aria-label="Open LinkedIn"
                   >
                     <LinkedIn
-                      className={${styles.ctaSVG} ${styles.linkedin}}
+                      className={`${styles.ctaSVG} ${styles.linkedin}`}
                     />
                     <span>LinkedIn</span>
                   </button>
                 </a>
                 <button
-                  className={${styles.cta} ${styles.browseBtn}}
+                  className={`${styles.cta} ${styles.browseBtn}`}
                   onClick={handleBrowse}
                   aria-label="Browse"
                 >

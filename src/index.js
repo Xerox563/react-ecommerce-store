@@ -21,7 +21,7 @@ root.render(
     domain="dev-ox710sb7vz2anbkm.us.auth0.com"
     clientId="PweQjTPb9YKaZs2rkIBBktZTbcgfxdjl"
     authorizationParams={{
-      redirect_uri: window.location.origin, // Ensure this matches the allowed callback URL in Auth0
+      redirect_uri: "https://xerox563.github.io/react-ecommerce-store/browse", // Ensure this matches the allowed callback URL in Auth0
     }}
   >
     <BrowserRouter>
